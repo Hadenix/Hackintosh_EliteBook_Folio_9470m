@@ -1,10 +1,8 @@
-# Hackintosh EliteBook Folio 9470m
-<p align="justify" > 
-If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into the Hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk. This tutorial is only for Hp EliteBook Folio 9470m, running BIOS version F.73.
-<br>There are lots of videos on how to installing macOS on a device. So, instead of installation, I will be guiding you with the correct BIOS setting before installation, and share my EFI files. Back up your important files before starting. Enjoy.!
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HP_Logo_2017.svg/362px-HP_Logo_2017.svg.png" width="120" height="210"/>
 </p>
-<p align="center"><img src="images/screen_shot.png"></p>
 
+<p align="center"># Hackintosh EliteBook Folio 9470m</p>
 
 ## BIOS Settings:
   ```
