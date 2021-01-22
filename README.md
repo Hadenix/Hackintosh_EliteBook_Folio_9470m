@@ -9,7 +9,6 @@
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Computer model | HP EliteBook Folio 9470m |
 | Processor | Intel Core i3-3227U, 1900 MHz (19 x 100) |
 | Memory | SK hynix HMT351S6CFR8C-H9 / Kllisre KRE-D3S1600M/8G |
 | Hard Disk | WEIJINTO mSATA SSD 480 Gb |
