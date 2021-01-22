@@ -4,7 +4,6 @@
 
 <p align="center"># Hackintosh EliteBook Folio 9470m</p>
 
------
 
 ## Configuration
 
