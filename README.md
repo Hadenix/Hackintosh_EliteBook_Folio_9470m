@@ -21,10 +21,13 @@
 | Trackpad | Synaptics SMBus TouchPad |
 | SD Card Reader | JMicron PCIe SD/MMC |
 
-## BIOS Settings:
+## BIOS Settings
 First of all, upgrade your BIOS to "68IBD Ver. F.73
   
 - Match your BIOS setting with the pictures gives below:
   - Boot Options: [Photo 1](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Boot_Options/IMG_1393.JPG), [Photo 2](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Boot_Options/IMG_1394.JPG), [Photo 3](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Boot_Options/IMG_1395.JPG)
   - Device Configuration: [Photo 1](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Device_Configurations/IMG_1396.JPG), [Photo 2](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Device_Configurations/IMG_1397.JPG), [Photo 3](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Device_Configurations/IMG_1398.JPG), [Photo 4](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/Device_Configurations/IMG_1399.JPG)
   - AMT Options: [Photo 1](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/AMT_Options/IMG_1401.JPG)
+
+## Screen
+
