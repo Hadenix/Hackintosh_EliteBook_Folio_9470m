@@ -15,8 +15,9 @@
 | Hard Disk | WEIJINTO mSATA SSD 480 Gb |
 | Integrated Graphics | Intel(R) HD Graphics 4000 |
 | Monitor | 1366 x 768 (14.0 inch) |
-| Sound Card | intel panther point pch |
-| Wireless Card | Intel(R) Centrino(R) Advanced-N 6235 |
+| Sound Card | IDT 92HD91BXX |
+| Ethernet | Intel 82579LM |
+| Wireless Card | Intel(R) Centrino(R) Advanced-N 6235 (will be replaced by BCM43225HMB)|
 | Trackpad | Synaptics SMBus TouchPad |
 | SD Card Reader | JMicron PCIe SD/MMC |
 
