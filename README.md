@@ -30,4 +30,4 @@ First of all, upgrade your BIOS to "68IBD Ver. F.73
   - AMT Options: [Photo 1](https://github.com/md-siam/Hackintosh_EliteBook_Folio_9470m/blob/master/images/AMT_Options/IMG_1401.JPG)
 
 ## Screen
-
+<p align="center"><img src="images/screen1.png"></p>
