@@ -16,7 +16,7 @@
 | Monitor | 1366 x 768 (14.0 inch) |
 | Sound Card | IDT 92HD91BXX |
 | Ethernet | Intel 82579LM |
-| Wireless Card | Intel(R) Centrino(R) Advanced-N 6235 (will be replaced by BCM43225HMB)|
+| Wireless Card | Intel (R) Centrino (R) Advanced-N 6235 (replaced by Atheros AR9485WB-EG)|
 | Trackpad | Synaptics SMBus TouchPad |
 | SD Card Reader | JMicron PCIe SD/MMC |
 
