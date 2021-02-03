@@ -273,27 +273,13 @@
 	</dict>
 	<key>Graphics</key>
 	<dict>
-		<key>DualLink</key>
-		<integer>1</integer>
 		<key>Inject</key>
 		<dict>
 			<key>Intel</key>
-			<true/>
+			<false/>
 		</dict>
-		<key>LoadVBios</key>
-		<true/>
-		<key>NVCAP</key>
-		<string>04000000000003000c0000000000000700000000</string>
 		<key>PatchVBios</key>
 		<false/>
-		<key>VRAM</key>
-		<integer>0</integer>
-		<key>VideoPorts</key>
-		<integer>0</integer>
-		<key>display-cfg</key>
-		<string>03010300ffff0001</string>
-		<key>ig-platform-id</key>
-		<string>0x01660004</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
