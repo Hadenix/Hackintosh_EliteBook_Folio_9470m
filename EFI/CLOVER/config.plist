@@ -195,17 +195,6 @@
 		<key>Timeout</key>
 		<integer>0</integer>
 	</dict>
-	<key>BootGraphics</key>
-	<dict>
-		<key>DefaultBackgroundColor</key>
-		<string>0x80000000</string>
-		<key>EFILoginHiDPI</key>
-		<integer>0</integer>
-		<key>UIScale</key>
-		<integer>1</integer>
-		<key>flagstate</key>
-		<integer>0</integer>
-	</dict>
 	<key>Devices</key>
 	<dict>
 		<key>Audio</key>
